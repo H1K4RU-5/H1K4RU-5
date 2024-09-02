@@ -1,0 +1,11 @@
+int x = 2;
+if (x==2) then
+
+print ("yes");
+
+else
+print ("no");
+
+
+while (x<0)
+x=x-1;
